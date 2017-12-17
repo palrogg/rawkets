@@ -1,0 +1,21 @@
+{
+  "name": "rawkets",
+  "version": "1.0.0",
+  "description": "Massively multiplayer space game utilising HTML5 canvas and WebSockets",
+  "main": "main.js",
+  "dependencies": {
+    "bison": "^1.1.1",
+    "bullet": "^0.1.0",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "oauth": "^0.9.15",
+    "socket.io": "^2.0.4",
+    "yaml": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Hawkes",
+  "license": "GPL-3.0"
+}
